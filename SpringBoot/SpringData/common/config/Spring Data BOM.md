@@ -1,0 +1,1 @@
+管理 Spring Data XXX 所有版本跟兼容

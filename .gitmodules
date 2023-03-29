@@ -1,0 +1,3 @@
+[submodule "Docker"]
+	path = Docker
+	url = git@github.com:nevertomica/obsidian.git

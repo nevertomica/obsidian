@@ -1,0 +1,5 @@
+
+1. POJO
+2. DTO
+3. DAO
+4. VO
