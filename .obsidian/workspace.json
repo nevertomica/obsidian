@@ -11,11 +11,52 @@
             "id": "a8e5a56a84a9d824",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "OO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7a382230bfdec48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hexagonal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abd10dab490e03cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hexagoal_TimeLine/timeline.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2da3c335e95ba55e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hexagoal_TimeLine/timeline.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hexagoal_TimeLine/timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hexagoal_TimeLine/timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hexagoal_TimeLine/timeline.md"
+              }
             }
           }
         ]
@@ -138,6 +183,44 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "a8e5a56a84a9d824",
-  "lastOpenFiles": []
+  "active": "2138366320049b99",
+  "lastOpenFiles": [
+    "obsidian/Tool/obsidian plugin/基礎篇.md",
+    "obsidian/Tool/obsidian plugin/plugin list.md",
+    "obsidian/Tool/oh my Zsh.md",
+    "obsidian/Tool/obsidian plugin",
+    "obsidian/Tool",
+    "obsidian/SpringBoot/SpringData/common/pattern/AOP.md",
+    "obsidian/SpringBoot/SpringData/common/object/JPA.md",
+    "obsidian/SpringBoot/SpringData/common/object/Entity.md",
+    "obsidian/SpringBoot/SpringData/common/object/Corresponding Object.md",
+    "obsidian/SpringBoot/SpringData/common/method/JPQL.md",
+    "obsidian/SpringBoot/SpringData/common/method/Access Data Method.md",
+    "obsidian/SpringBoot/SpringData/common/config/Spring Data BOM.md",
+    "obsidian/SpringBoot/SpringData/common/config/JPASpecifiedCrudName.md",
+    "obsidian/SpringBoot/SpringData/common/annotation/Transient.md",
+    "obsidian/SpringBoot/SpringData/common/annotation/Query.md",
+    "obsidian/SpringBoot/SpringData/common/annotation/NamedQuery.md",
+    "obsidian/SpringBoot/SpringData/Prac/simplejparepository/structure.md",
+    "obsidian/SpringBoot/SpringData/example_custom/Interface CrudRepository<T, ID>.md",
+    "obsidian/SpringBoot/SpringData/common/pattern",
+    "obsidian/SpringBoot/SpringData/common/object",
+    "obsidian/SpringBoot/SpringData/common/method",
+    "obsidian/SpringBoot/SpringData/common/config",
+    "obsidian/SpringBoot/SpringData/common/annotation",
+    "obsidian/SpringBoot/SpringData/Prac/simplejparepository",
+    "obsidian/SpringBoot/SpringData/Prac/crud-process.md",
+    "obsidian/SpringBoot/SpringData/whole thing.md",
+    "obsidian/SpringBoot/SpringData/maven dependency version.md",
+    "obsidian/SpringBoot/SpringData/example_custom",
+    "obsidian/SpringBoot/SpringData/common",
+    "obsidian/SpringBoot/SpringData/SprigBoot 3 with OpenAPI 3.md",
+    "obsidian/SpringBoot/SpringData/IDE Data Init List.md",
+    "obsidian/SpringBoot/Transaction.md",
+    "obsidian/SpringBoot/Pasted image 20230325104630.png",
+    "obsidian/SpringBoot/Marker Interface.md",
+    "obsidian/SpringBoot/JPA 方法命名.md",
+    "obsidian/LearnMetadata/FlashCard.md",
+    "obsidian/K8s/K8s/overview.md"
+  ]
 }
