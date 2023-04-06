@@ -133,7 +133,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hexagoal_TimeLine/NR_Tickets/MN <Core>.md",
+                "file": "hexagonal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ede707926d69c6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hexagoal_TimeLine/MongoSocketOpenException.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hexagoal_TimeLine/NR_Tickets/MN <Core>.md",
+                "file": "Hexagoal_TimeLine/MongoSocketOpenException.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hexagoal_TimeLine/NR_Tickets/MN <Core>.md",
+                "file": "Hexagoal_TimeLine/MongoSocketOpenException.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hexagoal_TimeLine/NR_Tickets/MN <Core>.md"
+                "file": "Hexagoal_TimeLine/MongoSocketOpenException.md"
               }
             }
           }
@@ -279,13 +291,15 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "eddcc6769e7a97f5",
+  "active": "0ede707926d69c6d",
   "lastOpenFiles": [
-    "MN<T>.md",
     "hexagonal.md",
+    "Hexagoal_TimeLine/MongoSocketOpenException.md",
+    "MN<T>.md",
+    "OO.md",
+    "Hexagoal_TimeLine/NR_Tickets/MN <Core>.md",
     "Hexagoal_TimeLine/NR_Tickets/MN<CreateUser>.md",
     "Hexagoal_TimeLine/NR.md",
-    "Hexagoal_TimeLine/NR_Tickets/MN <Core>.md",
     "Hexagoal_TimeLine/hexagonal.md",
     "Hexagoal_TimeLine/NR_Tickets",
     "Hexagoal_TimeLine/Annotation/Problem/HibernateValidator.md",
@@ -310,8 +324,6 @@
     "obsidian/SpringBoot/SpringData/common/config/Spring Data BOM.md",
     "obsidian/SpringBoot/SpringData/common/config/JPASpecifiedCrudName.md",
     "obsidian/SpringBoot/SpringData/common/annotation/Transient.md",
-    "obsidian/SpringBoot/SpringData/common/annotation/Query.md",
-    "obsidian/SpringBoot/SpringData/common/annotation/NamedQuery.md",
     "obsidian/SpringBoot/SpringData/common/pattern",
     "obsidian/SpringBoot/SpringData/common/object",
     "obsidian/SpringBoot/SpringData/common/method",

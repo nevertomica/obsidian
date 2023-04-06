@@ -10,6 +10,8 @@ infrastructure: db
 
 商業邏輯都放在 domain, 並開出對內對外的所有接口,  接口的實踐都在上下層內。
 
+[com.mongodb.MongoSocketOpenException: Exception opening socket(MongoDB, Docker)](https://stackoverflow.com/questions/45742999/com-mongodb-mongosocketopenexception-exception-opening-socketmongodb-docker)
+
 [Netflix 六角形架構](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
 [clean code 六角形架構](https://codesoapbox.dev/ports-adapters-aka-hexagonal-architecture-explained/)
 
