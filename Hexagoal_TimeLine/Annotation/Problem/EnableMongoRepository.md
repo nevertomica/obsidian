@@ -1,1 +1,1 @@
-讓 MongoRepository 所有方法
+讓 MongoRepository 所有方法實作

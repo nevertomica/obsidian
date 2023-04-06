@@ -1,0 +1,1 @@
+檢查參數的 Hibernate Validator 會檢查哪些項目
