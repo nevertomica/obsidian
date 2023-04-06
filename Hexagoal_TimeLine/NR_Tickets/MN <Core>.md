@@ -11,5 +11,6 @@ infrastructure: db
 商業邏輯都放在 domain, 並開出對內對外的所有接口,  接口的實踐都在上下層內。
 
 [Netflix 六角形架構](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
+[clean code 六角形架構](https://codesoapbox.dev/ports-adapters-aka-hexagonal-architecture-explained/)
 
 [[NR]]
