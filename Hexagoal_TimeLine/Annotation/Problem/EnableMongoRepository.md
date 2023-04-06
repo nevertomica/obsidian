@@ -1,0 +1,1 @@
+讓 MongoRepository 所有方法
