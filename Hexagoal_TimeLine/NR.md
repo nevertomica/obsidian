@@ -5,6 +5,9 @@ hexagonal-exam
 | Port | Adaptor  | outbound |
 
 
+##### application:
+UserCase 的實作
+
 ##### infrastructure :
 repository
 
@@ -13,6 +16,7 @@ exception
 
 #### domain:
 port(interface)
+UseCase(Service)
 
 
 ## cguard-mid-cl-user

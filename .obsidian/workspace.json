@@ -121,7 +121,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hexagonal.md",
+                "file": "Hexagoal_TimeLine/NR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eddcc6769e7a97f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hexagoal_TimeLine/NR_Tickets/MN <Core>.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hexagonal.md",
+                "file": "Hexagoal_TimeLine/NR_Tickets/MN <Core>.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hexagonal.md",
+                "file": "Hexagoal_TimeLine/NR_Tickets/MN <Core>.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hexagonal.md"
+                "file": "Hexagoal_TimeLine/NR_Tickets/MN <Core>.md"
               }
             }
           }
@@ -267,15 +279,16 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "2138366320049b99",
+  "active": "eddcc6769e7a97f5",
   "lastOpenFiles": [
     "MN<T>.md",
-    "Hexagoal_TimeLine/NR_Tickets/MN <Core>.md",
+    "hexagonal.md",
+    "Hexagoal_TimeLine/NR_Tickets/MN<CreateUser>.md",
     "Hexagoal_TimeLine/NR.md",
+    "Hexagoal_TimeLine/NR_Tickets/MN <Core>.md",
     "Hexagoal_TimeLine/hexagonal.md",
     "Hexagoal_TimeLine/NR_Tickets",
     "Hexagoal_TimeLine/Annotation/Problem/HibernateValidator.md",
-    "hexagonal.md",
     "Hexagoal_TimeLine/Annotation/Usual Annotation.md",
     "Hexagoal_TimeLine/Annotation/EnableMongoRepository.md",
     "Hexagoal_TimeLine/Annotation/Problem/EnableMongoRepository.md",
@@ -299,7 +312,6 @@
     "obsidian/SpringBoot/SpringData/common/annotation/Transient.md",
     "obsidian/SpringBoot/SpringData/common/annotation/Query.md",
     "obsidian/SpringBoot/SpringData/common/annotation/NamedQuery.md",
-    "obsidian/SpringBoot/SpringData/Prac/simplejparepository/structure.md",
     "obsidian/SpringBoot/SpringData/common/pattern",
     "obsidian/SpringBoot/SpringData/common/object",
     "obsidian/SpringBoot/SpringData/common/method",
