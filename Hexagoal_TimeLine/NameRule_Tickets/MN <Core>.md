@@ -15,4 +15,4 @@ infrastructure: db
 [Netflix 六角形架構](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
 [clean code 六角形架構](https://codesoapbox.dev/ports-adapters-aka-hexagonal-architecture-explained/)
 
-[[NR]]
+[[Architecture]]

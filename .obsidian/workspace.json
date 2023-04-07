@@ -4,59 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "1b45d203876691a2",
+        "id": "16abfccb8fdc04f5",
         "type": "tabs",
         "children": [
           {
-            "id": "a8e5a56a84a9d824",
+            "id": "8abc84202d2cf671",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OO.md",
+                "file": "Hexagoal_TimeLine/Architecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c7a382230bfdec48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hexagonal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abd10dab490e03cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hexagoal_TimeLine/timeline.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2da3c335e95ba55e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hexagoal_TimeLine/hexagonal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c24fa44f1f0e3ee",
+            "id": "2ce61b449d610d4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,105 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1b00b823f08188c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hexagoal_TimeLine/Annotation/Usual Annotation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afaae71bff00ccd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hexagoal_TimeLine/Annotation/Usual Annotation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b290e711ee010685",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hexagoal_TimeLine/Annotation/Problem/HibernateValidator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eeea713e60a2a6ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hexagoal_TimeLine/hexagonal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c0ebafad71c0926",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hexagoal_TimeLine/NR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eddcc6769e7a97f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hexagonal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ede707926d69c6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hexagoal_TimeLine/MongoSocketOpenException.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8c11c0d545d8fd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hexagoal_TimeLine/Annotation/EnableMongoRepository.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hexagoal_TimeLine/MongoSocketOpenException.md",
+                "file": "MN<T>.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hexagoal_TimeLine/MongoSocketOpenException.md",
+                "file": "MN<T>.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hexagoal_TimeLine/MongoSocketOpenException.md"
+                "file": "MN<T>.md"
               }
             }
           }
@@ -291,44 +159,45 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "0ede707926d69c6d",
+  "active": "2138366320049b99",
   "lastOpenFiles": [
-    "hexagonal.md",
-    "Hexagoal_TimeLine/MongoSocketOpenException.md",
+    "Hexagoal_TimeLine/Architecture.md",
     "MN<T>.md",
-    "OO.md",
-    "Hexagoal_TimeLine/NR_Tickets/MN <Core>.md",
-    "Hexagoal_TimeLine/NR_Tickets/MN<CreateUser>.md",
-    "Hexagoal_TimeLine/NR.md",
-    "Hexagoal_TimeLine/hexagonal.md",
-    "Hexagoal_TimeLine/NR_Tickets",
-    "Hexagoal_TimeLine/Annotation/Problem/HibernateValidator.md",
-    "Hexagoal_TimeLine/Annotation/Usual Annotation.md",
     "Hexagoal_TimeLine/Annotation/EnableMongoRepository.md",
+    "Hexagoal_TimeLine/Annotation/Problem/HibernateValidator.md",
     "Hexagoal_TimeLine/Annotation/Problem/EnableMongoRepository.md",
+    "Hexagoal_TimeLine/timeline.md",
+    "Hexagoal_TimeLine/Hexagonal 優點.md",
+    "Hexagoal_TimeLine/hexagonal.md",
+    "Learn Source.md",
+    "Hexagoal_TimeLine/MongoSocketOpenException.md",
+    "Hexagoal_TimeLine/Annotation/Usual Annotation.md",
+    "OO.md",
+    "Hexagoal_TimeLine/未命名",
+    "SpringBoot/SpringDoc.md",
+    "SpringBoot/Pasted image 20230325104630.png",
+    "SpringBoot/JPA 方法命名.md",
+    "SpringBoot/未命名",
+    "LearnMetadata/FlashCard.md",
+    "SpringBoot/SpringData/whole thing.md",
+    "Hexagoal_TimeLine/NameRule_Tickets/MN <Core>.md",
+    "SpringBoot/SpringData/SpringData JPA.md",
+    "SpringBoot/SpringData/SprigBoot 3 with OpenAPI 3.md",
+    "AuthenticationfailedCode18.md",
+    "hexagonal.md",
+    "Hexagoal_TimeLine/NameRule_Tickets/MN<CreateUser>.md",
+    "Hexagoal_TimeLine/NameRule_Tickets",
     "meeting notes.md",
     "Hexagoal_TimeLine/Annotation/Problem",
     "Hexagoal_TimeLine/Annotation",
-    "Hexagoal_TimeLine/timeline.md",
     "obsidian/Tool/obsidian plugin/基礎篇.md",
     "obsidian/Tool/obsidian plugin/plugin list.md",
     "obsidian/Tool/oh my Zsh.md",
     "obsidian/Tool/obsidian plugin",
     "obsidian/Tool",
-    "obsidian/SpringBoot/SpringData/common/pattern/AOP.md",
-    "obsidian/SpringBoot/SpringData/common/object/JPA.md",
-    "obsidian/SpringBoot/SpringData/common/object/Entity.md",
-    "obsidian/SpringBoot/SpringData/common/object/Corresponding Object.md",
-    "obsidian/SpringBoot/SpringData/common/method/JPQL.md",
-    "obsidian/SpringBoot/SpringData/common/method/Access Data Method.md",
-    "obsidian/SpringBoot/SpringData/common/config/Spring Data BOM.md",
-    "obsidian/SpringBoot/SpringData/common/config/JPASpecifiedCrudName.md",
-    "obsidian/SpringBoot/SpringData/common/annotation/Transient.md",
     "obsidian/SpringBoot/SpringData/common/pattern",
     "obsidian/SpringBoot/SpringData/common/object",
     "obsidian/SpringBoot/SpringData/common/method",
-    "obsidian/SpringBoot/SpringData/common/config",
-    "obsidian/SpringBoot/SpringData/common/annotation",
     "obsidian/SpringBoot/Pasted image 20230325104630.png"
   ]
 }
