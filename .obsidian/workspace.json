@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LS<SpringBoot>.md",
+                "file": "SpringBoot/SpringData/PostgreSQL/MN<PostgreSQL>.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LS<SpringBoot>.md",
+                "file": "SpringBoot/SpringData/PostgreSQL/MN<PostgreSQL>.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LS<SpringBoot>.md",
+                "file": "SpringBoot/SpringData/PostgreSQL/MN<PostgreSQL>.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LS<SpringBoot>.md"
+                "file": "SpringBoot/SpringData/PostgreSQL/MN<PostgreSQL>.md"
               }
             }
           }
@@ -159,8 +159,9 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "2138366320049b99",
+  "active": "f99a5d49c7486ea6",
   "lastOpenFiles": [
+    "LS<SpringBoot>.md",
     "MN<HexagonalArchitecture>.md",
     "SpringBoot/SpringData/PostgreSQL/MN<PostgreSQL>.md",
     "SpringBoot/JPA 方法命名.md",
@@ -170,7 +171,6 @@
     "SpringBoot/Pasted image 20230325104630.png",
     "SpringBoot/Marker Interface.md",
     "Hexagoal_TimeLine/Architecture.md",
-    "LS<SpringBoot>.md",
     "Hexagoal_TimeLine/Hexagonal_Tickets/MN<CreateUser>.md",
     "Hexagoal_TimeLine/Annotation/EnableMongoRepository.md",
     "Hexagoal_TimeLine/Annotation/Problem/HibernateValidator.md",
