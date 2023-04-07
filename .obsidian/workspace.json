@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2ce61b449d610d4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MN<T>.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MN<T>.md",
+                "file": "LS<SpringBoot>.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MN<T>.md",
+                "file": "LS<SpringBoot>.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MN<T>.md"
+                "file": "LS<SpringBoot>.md"
               }
             }
           }
@@ -161,8 +148,11 @@
   },
   "active": "2138366320049b99",
   "lastOpenFiles": [
+    "SpringBoot/Transaction.md",
+    "LS<SpringBoot>.md",
+    "Hexagoal_TimeLine/Hexagonal_Tickets/MN<CreateUser>.md",
+    "MN<HexagonalArchitecture>.md",
     "Hexagoal_TimeLine/Architecture.md",
-    "MN<T>.md",
     "Hexagoal_TimeLine/Annotation/EnableMongoRepository.md",
     "Hexagoal_TimeLine/Annotation/Problem/HibernateValidator.md",
     "Hexagoal_TimeLine/Annotation/Problem/EnableMongoRepository.md",
@@ -180,19 +170,16 @@
     "SpringBoot/未命名",
     "LearnMetadata/FlashCard.md",
     "SpringBoot/SpringData/whole thing.md",
-    "Hexagoal_TimeLine/NameRule_Tickets/MN <Core>.md",
+    "Hexagoal_TimeLine/Hexagonal_Tickets/MN <Core>.md",
     "SpringBoot/SpringData/SpringData JPA.md",
     "SpringBoot/SpringData/SprigBoot 3 with OpenAPI 3.md",
     "AuthenticationfailedCode18.md",
     "hexagonal.md",
-    "Hexagoal_TimeLine/NameRule_Tickets/MN<CreateUser>.md",
-    "Hexagoal_TimeLine/NameRule_Tickets",
+    "Hexagoal_TimeLine/Hexagonal_Tickets",
     "meeting notes.md",
     "Hexagoal_TimeLine/Annotation/Problem",
     "Hexagoal_TimeLine/Annotation",
     "obsidian/Tool/obsidian plugin/基礎篇.md",
-    "obsidian/Tool/obsidian plugin/plugin list.md",
-    "obsidian/Tool/oh my Zsh.md",
     "obsidian/Tool/obsidian plugin",
     "obsidian/Tool",
     "obsidian/SpringBoot/SpringData/common/pattern",
