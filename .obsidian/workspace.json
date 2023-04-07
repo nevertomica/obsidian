@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hexagoal_TimeLine/Architecture.md",
+                "file": "SpringBoot/JPA 方法命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f99a5d49c7486ea6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LS<SpringBoot>.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,11 +161,17 @@
   },
   "active": "2138366320049b99",
   "lastOpenFiles": [
+    "MN<HexagonalArchitecture>.md",
+    "SpringBoot/SpringData/PostgreSQL/MN<PostgreSQL>.md",
+    "SpringBoot/JPA 方法命名.md",
+    "SpringBoot/SpringData/PostgreSQL",
+    "SpringBoot/SpringDoc.md",
     "SpringBoot/Transaction.md",
+    "SpringBoot/Pasted image 20230325104630.png",
+    "SpringBoot/Marker Interface.md",
+    "Hexagoal_TimeLine/Architecture.md",
     "LS<SpringBoot>.md",
     "Hexagoal_TimeLine/Hexagonal_Tickets/MN<CreateUser>.md",
-    "MN<HexagonalArchitecture>.md",
-    "Hexagoal_TimeLine/Architecture.md",
     "Hexagoal_TimeLine/Annotation/EnableMongoRepository.md",
     "Hexagoal_TimeLine/Annotation/Problem/HibernateValidator.md",
     "Hexagoal_TimeLine/Annotation/Problem/EnableMongoRepository.md",
@@ -164,9 +183,6 @@
     "Hexagoal_TimeLine/Annotation/Usual Annotation.md",
     "OO.md",
     "Hexagoal_TimeLine/未命名",
-    "SpringBoot/SpringDoc.md",
-    "SpringBoot/Pasted image 20230325104630.png",
-    "SpringBoot/JPA 方法命名.md",
     "SpringBoot/未命名",
     "LearnMetadata/FlashCard.md",
     "SpringBoot/SpringData/whole thing.md",
@@ -176,15 +192,12 @@
     "AuthenticationfailedCode18.md",
     "hexagonal.md",
     "Hexagoal_TimeLine/Hexagonal_Tickets",
-    "meeting notes.md",
     "Hexagoal_TimeLine/Annotation/Problem",
     "Hexagoal_TimeLine/Annotation",
-    "obsidian/Tool/obsidian plugin/基礎篇.md",
     "obsidian/Tool/obsidian plugin",
     "obsidian/Tool",
     "obsidian/SpringBoot/SpringData/common/pattern",
     "obsidian/SpringBoot/SpringData/common/object",
-    "obsidian/SpringBoot/SpringData/common/method",
     "obsidian/SpringBoot/Pasted image 20230325104630.png"
   ]
 }
