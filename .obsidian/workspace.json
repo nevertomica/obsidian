@@ -4,35 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "16abfccb8fdc04f5",
+        "id": "148a8fe3aec193ba",
         "type": "tabs",
         "children": [
           {
-            "id": "8abc84202d2cf671",
+            "id": "d343047ffe720f12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot/JPA 方法命名.md",
+                "file": "Hexagoal_TimeLine/Practice/SideProject/E-HealthCare-Management-System/API 盤點/Role.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f99a5d49c7486ea6",
+            "id": "612cc108d6539f3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot/SpringData/PostgreSQL/MN<PostgreSQL>.md",
+                "file": "Hexagoal_TimeLine/Practice/SideProject/E-HealthCare-Management-System/API 盤點/Role.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f201e6944ad28421",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hexagoal_TimeLine/Practice/SideProject/E-HealthCare-Management-System/Domain/Domain Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0707c9303092c1fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hexagoal_TimeLine/Practice/SideProject/E-HealthCare-Management-System/API 盤點/API.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot/SpringData/PostgreSQL/MN<PostgreSQL>.md",
+                "file": "Hexagoal_TimeLine/Practice/SideProject/E-HealthCare-Management-System/API 盤點/API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot/SpringData/PostgreSQL/MN<PostgreSQL>.md",
+                "file": "Hexagoal_TimeLine/Practice/SideProject/E-HealthCare-Management-System/API 盤點/API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot/SpringData/PostgreSQL/MN<PostgreSQL>.md"
+                "file": "Hexagoal_TimeLine/Practice/SideProject/E-HealthCare-Management-System/API 盤點/API.md"
               }
             }
           }
@@ -159,12 +183,27 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "f99a5d49c7486ea6",
+  "active": "0707c9303092c1fd",
   "lastOpenFiles": [
-    "LS<SpringBoot>.md",
+    "Hexagoal_TimeLine/Practice/SideProject/E-HealthCare-Management-System/Table-Schema/tables.md",
+    "Hexagoal_TimeLine/Practice/SideProject/E-HealthCare-Management-System/API 盤點/Role.md",
+    "Hexagoal_TimeLine/Practice/SideProject/E-HealthCare-Management-System/API 盤點/API.md",
+    "Hexagoal_TimeLine/Practice/SideProject/E-HealthCare-Management-System/未命名.md",
+    "Hexagoal_TimeLine/Practice/SideProject/E-HealthCare-Management-System/Table-Schema",
+    "Hexagoal_TimeLine/Practice/SideProject/E-HealthCare-Management-System/Domain/Domain Design.md",
+    "Hexagoal_TimeLine/Practice/SideProject/E-HealthCare-Management-System/Domain",
+    "AuthenticationfailedCode18.md",
+    "Hexagoal_TimeLine/Practice/SideProject/E-HealthCare-Management-System/API 盤點.md",
+    "Hexagoal_TimeLine/Practice/SideProject/E-HealthCare-Management-System/API 盤點",
+    "Hexagoal_TimeLine/未命名.md",
+    "Hexagoal_TimeLine/Practice/SideProject/E-HealthCare-Management-System",
+    "Hexagoal_TimeLine/Practice/SideProject",
+    "Hexagoal_TimeLine/Practice",
+    "hexagonal.md",
     "MN<HexagonalArchitecture>.md",
-    "SpringBoot/SpringData/PostgreSQL/MN<PostgreSQL>.md",
     "SpringBoot/JPA 方法命名.md",
+    "SpringBoot/SpringData/PostgreSQL/MN<PostgreSQL>.md",
+    "LS<SpringBoot>.md",
     "SpringBoot/SpringData/PostgreSQL",
     "SpringBoot/SpringDoc.md",
     "SpringBoot/Transaction.md",
@@ -180,24 +219,9 @@
     "Hexagoal_TimeLine/hexagonal.md",
     "Learn Source.md",
     "Hexagoal_TimeLine/MongoSocketOpenException.md",
-    "Hexagoal_TimeLine/Annotation/Usual Annotation.md",
-    "OO.md",
-    "Hexagoal_TimeLine/未命名",
     "SpringBoot/未命名",
-    "LearnMetadata/FlashCard.md",
-    "SpringBoot/SpringData/whole thing.md",
-    "Hexagoal_TimeLine/Hexagonal_Tickets/MN <Core>.md",
-    "SpringBoot/SpringData/SpringData JPA.md",
-    "SpringBoot/SpringData/SprigBoot 3 with OpenAPI 3.md",
-    "AuthenticationfailedCode18.md",
-    "hexagonal.md",
     "Hexagoal_TimeLine/Hexagonal_Tickets",
     "Hexagoal_TimeLine/Annotation/Problem",
-    "Hexagoal_TimeLine/Annotation",
-    "obsidian/Tool/obsidian plugin",
-    "obsidian/Tool",
-    "obsidian/SpringBoot/SpringData/common/pattern",
-    "obsidian/SpringBoot/SpringData/common/object",
     "obsidian/SpringBoot/Pasted image 20230325104630.png"
   ]
 }
